@@ -1,4 +1,4 @@
-<img src="logozeneto.png" width="80"/> 
+<!-- <img src="logozeneto.png" width="80"/>  -->
 
 - :computer: Web developer Jr. 
 - 🔭 I’m currently working on building my portifolio
