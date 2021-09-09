@@ -9,7 +9,7 @@ I'm a Brazilian Systems Analysis and Development student living in Ilhéus, Bahi
 My status:
 - :computer: Web developer Jr. 
 - 🔭 I’m currently building my portifolio
-- :books: I’m currently learning web development with HTML, CSS, Javascript, PHP, Java, Nodejs, ReactJS and Angular.
+- :books: I’m currently learning web development with HTML, CSS, Javascript, PHP and Wordpress, Java, Nodejs, ReactJS and Angular.
 
 
 Contact me
