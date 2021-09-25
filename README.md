@@ -4,10 +4,10 @@ Hi, there!
 
 My name is José Pereira da Silva Neto. Zé for my friends, Neto for my family.
 
-I'm a Brazilian Systems Analysis and Development student living in Ilhéus, Bahia. I have a background in Biology. However, I am more interested in computers and web development for now. So  I am looking for a career change, although still working as a Government employee at Universidade Estadual de Santa Cruz as a laboratory technician.
+I'm a Systems Analysis and Development student living in Ilhéus, Bahia, Brazil. I have a background in Biology. However, I am more interested in computers and web development for now. So I am looking for a career change, although still working as a Government employee at Universidade Estadual de Santa Cruz as a laboratory technician.
 
 My status:
-- :computer: Web developer Jr. 
+- :computer: Front-end Developer Jr. 
 - 🔭 I’m currently building my portifolio
 - :books: I’m currently learning web development with HTML, CSS, Javascript, PHP and Wordpress, Java, Nodejs, ReactJS and Angular.
 
